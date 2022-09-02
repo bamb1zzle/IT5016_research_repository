@@ -1,0 +1,61 @@
+###On a 0-5 scale, how confident are you with each of the assignments?
+
+I would say I'm more confident in myself that I can find an answer that brings me towards more learning and am not afraid of getting stumped. I don't really care about passing the assignment as much as I do about learning.
+
+###What are you proud of up to this point in the course?
+
+That I kept leaning into what interests me and kept trying to seek more. 
+
+###Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent a description of a strategy for yourself. 
+
+My learning strategy is to work backwards from what I want but this means that I end up sacrificing learning all the fundamentals which has hindered me greatly. Sometimes my code would be stuck and all it needed was such a simple answer but I wouldn't know that because I don't have the fundamentals down...yet. 
+But overall, I love my approach to learning. I feed my curiosity. I ask for help when necessary. And I truly believe it is the most efficient way of learning for me.
+
+###If you could send a time travelling text message back to yourself at the start of this course, what would it say?
+
+Talk more to your classmates. Build relationships asap.
+
+###Do you consider yourself a developer yet?
+
+In the broad sense, yes. Being a developer is like a cap you put on. Sometimes you think that you use it so much in one area in your life that it belongs to only that part of your life but it’s just a cap. You choose when to put it on and where to take it. Were all developers.   
+
+###Do you value creativity? As a value itself? What about as a tool for learning to think logically?
+
+Creativity is what separates us from robots. We NEED creativity. We NEED personality. I believe it's one of the best tools for learning to think logically. It just takes time to build your toolbox and figure out what methods work for you.
+
+###What did you learn out of the Marshmallow Challenge?
+
+Reflect. Refine. Repeat until satisfied.
+
+###Did you have any blocks during this challenge? How did you overcome them?
+
+If you're not strong and level headed as a leader then people will not listen regardless of how great your idea may be.
+
+###So far, what was the hardest moment of this course for you?
+
+Learning to be more patient when things don’t work out. 
+
+###Are you using the canvas content? Do you find it helpful or tedious?
+
+Tedious. I’d rather just have everything on teams or everything on canvas. More efficient workflow.
+
+###What is the hardest problem you have solved so far?
+
+Just being patient. Generally, every problem is going to be harder than the next but it's just learning how to deal with yourself in that stage of figuring things out.
+
+###What are you looking forward to learning about programming?
+
+How I can use it to make my own life and the life of those around me better.
+
+###If you were describing programming to someone who knows nothing about it, what would you say?
+
+Problem solving but with code.
+
+###Which parts of this course made you feel doubtful of your own innate ability?
+
+Nothing. It was an opportunity to reinforce the person I want to be.
+
+###What is a fixed mindset?
+
+A very dark tunnel.
+
