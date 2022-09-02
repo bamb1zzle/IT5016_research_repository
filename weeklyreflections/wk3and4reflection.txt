@@ -1,9 +1,16 @@
 Wk3 & Wk 4 Reflection:
 
 These next two weeks worked better for me. I really enjoy getting activities to work on to grasp the ropes.
-I ended up completing all the activities and learned about creating variables, the importance of assigning property types to inputs, that formulas/learning maths is important for making efficient code and to keep seeking more.
-My last point is important to me because if I only answer the questions to the requirements, I'm only searching for the bare minimum. I'm limiting my mind to thinking about the world as a grade system where you only do whats necessary for a mark. 
+
+I learned about:
+- Creating variables 
+- The importance of assigning property types to inputs  
+- That formulas/learning maths is important for making efficient code 
+- Most importantly, to keep seeking more.
+
+My last point is important to me because if I only answer the questions to the requirements, I'm only searching for the bare minimum.
 This limiting mindset blocks me from actual learning that comes from the interests in my mind, e.g. "what if I do...". 
+
 I don't like that when I asked Pinal for help on making my code better he just told me that it wasn't necessary as the questions already answered. I think that pissed me off the most but it reinforces the idea for me that I just need to find the answer myself. I understand why he answered me the way he did but I just wish he didn't shut down my curiosity without a further thought into who I am as a student.
 
 Notes after activities:

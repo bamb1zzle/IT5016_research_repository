@@ -1,0 +1,40 @@
+15/08/22 - 
+daysinmonths program - I really enjoyed this activity because although the base answer was simple it was really fun to improve it afterwards. 
+My goal was to make the program give an option to ask the initial question again, incase you needed to know how many days for more than one month. e.g. I need to know how many days are in February AND March.
+I did this by: 
+
+1. Making the initial question a loop and rerunning it via an if statement.
+
+def main():
+    in1 = str(input("Input the name of Month:"))
+
+    x = in1.upper()
+
+    print (in1.capitalize())
+
+2.  Small tweaks I also added was making the input into all lowercase so that way even if the person inputting the month made a capital letter error it wouldn't matter.
+
+    if x in ("JANUARY", "MARCH", "MAY", "JUNE" , "AUGUST", "OCTOBER", "DECEMBER"):
+        print ("No. of days: 31 days")
+    
+Full code can be found in selflearning projects folder.
+
+18/08/22 - 
+password generator program - This surprisingly gave me more of a headache than I initially thought it would. The main problem for me was that I didn't know how to make the code more efficient.
+This was a problem because if the person wanted x amount of passwords I didn't know how to produce that without manually typing it in. e.g. If x == 1: amount = 1, elif x ==2: amount = 2, etc.
+I overcame this issue through ignoring if statements and just making the input a variable and applying it in an "in range" statement.
+
+ in2 =str(input("How many possible passwords would you like generated? "))
+    amount= int(in2)
+
+    print("These are your",amount,"generated passwords:")
+    for x in range(amount):
+        password = "".join(random.sample(all, length))  #sample means you cant resuse symbols
+        print(password)
+
+22/08/22 - 
+pick a path game - Straight forward. I just purely enjoyed the act of making this game. It was simple and fun. It was a good example of how creativity goes hand in hand with code.
+
+24/08/22 - 
+quiz game - I think my initial iteration of it was fine and I already had a solve for making two players but I just didn't want to rewrite the code again. I wanted to make my code more efficient and thus had to learn about classes. I still haven't solved making this code more efficient yet but I'm not too stressed. 
+My main problem was just information overload. When I was trying to figure it out and asked for help I got useful leads but I think it was a lot all at once and my brain got overloaded. I took Romans advice and just stepped away from the code and give myself time to breathe. I will arrive back to finish it soon but I'm in no rush until the software project is due.

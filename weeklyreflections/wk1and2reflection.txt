@@ -1,13 +1,18 @@
 Wk1 & Wk2 Reflection
 :
 I think that these first two weeks of the course have been very simple but in a purposeful way. 
+
 1. Because there are people that barely know how to use a computer properly and we got to introduce things to them slowly.
 2. To not just jump in to learning and understand the why behind what we are learning.
 
+Analyzing Romans Approach.
 
 I believe that Romans approach is very practical and efficient. The "1's and 2's", foundations, rules of programming language, I think that all of these processes he doesn't focus too much on because it's irrelevant to what the work force needs.
 All of us can learn the foundations of coding for software development through resources like w3, YouTube, Google but something that I think Roman prioritises is how we should be thinking in terms of solving problems.
-Because of the way technology advances at such a fast rate, this is why I belive Roman focuses on our thought process in finding the answer rather than the answer itself which is why this research repository is an assignment itself.
+Because of the way technology advances at such a fast rate, this is why I belive Roman focuses on our thought process in finding the answer rather than the answer which is why this research repository is an assignment itself.
+
+My feelings.
+
 I think this way of teaching is great but I think one of my problems is that my problem solving mind is already quite fluid. Although not in terms of software development I believe my ability to pick up this way of thinking is strong. 
 Where I believe I lack in at the moment is my understanding of language rules and the efficient way to write and execute code. But I don't think this limits me, Roman is always open to helping and the internet is at my fingertips. If I can't do something, its more based off the fact that I've told myself I couldn't do it and didn't work hard enough to find the answer.
 
